@@ -1,0 +1,34 @@
+{
+  "contacts": [
+    {
+      "id": "69510fec-91eb-4272-bae6-80850a77f62a",
+      "name": "zafri",
+      "email": "zafri@gmail.com"
+    },
+    {
+      "id": "cccdd4a0-b5c4-4af5-9c89-352a61572c4b",
+      "name": "kensakeru",
+      "email": "kenzaff@gmail.com"
+    },
+    {
+      "id": "76dfbe90-278f-4e4c-96bb-faf99c2f5a33",
+      "name": "flurries",
+      "email": "zafflurries@gmail.com"
+    },
+    {
+      "id": "0573113f-f030-4ad4-a072-759240ec1380",
+      "name": "wanna",
+      "email": "wannaone@gmail.com"
+    },
+    {
+      "id": "6f882e71-06fd-4be7-90bb-29bb1fdbe2d2",
+      "name": "Alia",
+      "email": "alia@gmail.com"
+    },
+    {
+      "id": "249cf2b6-042c-47f6-8221-cfcb532f1286",
+      "name": "Ben Sakeru",
+      "email": "b.sakeru@gmail.com"
+    }
+  ]
+}
